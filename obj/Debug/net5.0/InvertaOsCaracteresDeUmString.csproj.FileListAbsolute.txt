@@ -1,0 +1,16 @@
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\InvertaOsCaracteresDeUmString.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\InvertaOsCaracteresDeUmString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\InvertaOsCaracteresDeUmString.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\InvertaOsCaracteresDeUmString.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\InvertaOsCaracteresDeUmString.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\bin\Debug\net5.0\InvertaOsCaracteresDeUmString.exe
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\bin\Debug\net5.0\InvertaOsCaracteresDeUmString.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\bin\Debug\net5.0\InvertaOsCaracteresDeUmString.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\bin\Debug\net5.0\InvertaOsCaracteresDeUmString.runtimeconfig.dev.json
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\bin\Debug\net5.0\InvertaOsCaracteresDeUmString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\bin\Debug\net5.0\InvertaOsCaracteresDeUmString.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\InvertaOsCaracteresDeUmString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\refint\InvertaOsCaracteresDeUmString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\InvertaOsCaracteresDeUmString.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\InvertaOsCaracteresDeUmString.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\C#Alura\C#parte2EntendendoaOrientaçãoaObjetos\InvertaOsCaracteresDeUmString\InvertaOsCaracteresDeUmString\obj\Debug\net5.0\ref\InvertaOsCaracteresDeUmString.dll
